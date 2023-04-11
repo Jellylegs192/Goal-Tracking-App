@@ -5,7 +5,7 @@ import time
 from Run import UserMenu
 
 
-Parent = 'C:/Users/Ottma/OneDrive/Desktop/Personal Projects/Goal Tracker/Users'
+Parent = ''
 
 os.chdir(Parent)
 Menu = input('1. Log In\n2. New User\n\nYour Choice: ')
